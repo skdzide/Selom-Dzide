@@ -4,13 +4,13 @@ My profile, interests and projects (current and planned)
 
 ## About Me
 
-I'm a developer with a background in **physics, computer science and computational science**, currently expanding my expertise in quality management, python automation and web development. I combine scientific thinking with practical software development to build tools that solve real problems.
+I'm a developer with a background in **physics, computer science and computational nuclear science and engineering**, currently expanding my expertise in quality management, python automation and web development. I combine scientific thinking with practical software development to build tools that solve real problems.
 
 My journey spans from academic computational work to business applications, and I'm now focusing on bringing modern Python development practices to scientific computing and automation workflows.
 
 **📍 Based in:** Accra, Ghana  
 **🎓 Background:** Physics, Computer Science, Computational Science  
-**💼 Experience:** Application development with Visual Basic 6, VB .NET, SQL Server 2000/2005, MySQL, LabVIEW 2009, Matlab, Fortran Quality Management Systems
+**💼 Experience:** Application development with Visual Basic 6, VB .NET, SQL Server 2000/2005, MySQL, LabVIEW 2009, Matlab, Fortran, Quality and Safety Management Systems
 
 ## 🔭 What I'm Working On
 
